@@ -1,0 +1,6 @@
+Kontron SAMX6I BOARD
+M:	KunYi Chen <kunyi.chen@gmail.com>
+S:	Maintained
+F:	board/ubiqconn/samx6/
+F:	include/configs/samx6.h
+F:	configs/mx6qsamx6_defconfig
